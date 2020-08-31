@@ -59,7 +59,7 @@ ul {
 }
 
 .Top {
-  background-image: url("/Users/caseymook/Documents/Personal Projects/Web Development/CSS - My Site/images/cool-background.png");
+  background-image: url("cool-background.png");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
